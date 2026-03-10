@@ -1,0 +1,1 @@
+word_list =['aardvark','baboon','camel','door','egg', 'toy', 'ground', 'bark', 'sneeze', 'bite', 'dance', 'light', 'heavy']
